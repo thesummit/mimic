@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "help": "echo '// manage command scripts in `package.json`'"
+  }
+}

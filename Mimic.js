@@ -5,6 +5,7 @@
  * explicit permission from the copyright holder. This is built in my personal time using private resources.
  * Copyright 2021 Summit
  *
+ * Hosted at https://github.com/thesummit/mimic
  * Author: summit
  */
 
